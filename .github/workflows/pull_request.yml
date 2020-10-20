@@ -1,4 +1,4 @@
-name: Android CI on Pull Request
+name: Android CI on Pull Request Open
 
 on: [pull_request]
 
